@@ -4,8 +4,12 @@
 
 My Skills:
 
-![ALL](https://user-images.githubusercontent.com/48765197/119262054-c73aa380-bbd1-11eb-9132-43111c34e7e5.jpg)
+![To](https://user-images.githubusercontent.com/48765197/119344068-1e527e00-bc8f-11eb-9a75-c43acb22bd13.jpg)
 
+
+
+- 🌱 I’m currently learning ...
+- ![angular](https://user-images.githubusercontent.com/48765197/119343535-805eb380-bc8e-11eb-918d-4b85172133e3.jpg)
 
 <!--
 **DominikaBarrett/DominikaBarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +17,7 @@ My Skills:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
