@@ -8,7 +8,11 @@ My Skills:
 
 
 
+
+
 - 🌱 I’m currently learning ...
+
+
 - ![angular](https://user-images.githubusercontent.com/48765197/119343535-805eb380-bc8e-11eb-918d-4b85172133e3.jpg)
 
 <!--
