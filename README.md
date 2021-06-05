@@ -13,7 +13,8 @@ My Skills:
 - 🌱 I’m currently learning ...
 
 
-- ![angular](https://user-images.githubusercontent.com/48765197/119343535-805eb380-bc8e-11eb-918d-4b85172133e3.jpg)
+![newreact](https://user-images.githubusercontent.com/48765197/120884169-47510800-c5d9-11eb-9fd8-b618d1f02170.jpg)
+
 
 <!--
 **DominikaBarrett/DominikaBarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
