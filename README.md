@@ -1,20 +1,26 @@
 
-### Hi there, Dominika here 👋
+### Hi there! 👋
+![domi](https://user-images.githubusercontent.com/48765197/123398363-52290800-d59b-11eb-88a3-819dfa24c911.jpg)
+ 
 
 
-My Skills:
+ 😄 My Skills:
 
-![To](https://user-images.githubusercontent.com/48765197/119344068-1e527e00-bc8f-11eb-9a75-c43acb22bd13.jpg)
-
-
+![ikoniki](https://user-images.githubusercontent.com/48765197/123399470-8c46d980-d59c-11eb-9587-a96fcce974b2.jpg)
 
 
 
-- 🌱 I’m currently learning ...
 
 
-![newreact](https://user-images.githubusercontent.com/48765197/120884169-47510800-c5d9-11eb-9fd8-b618d1f02170.jpg)
 
+ 🌱 I’m currently learning ...
+
+
+![reackkt](https://user-images.githubusercontent.com/48765197/123399725-ddef6400-d59c-11eb-9b6d-80701628ff93.jpg)
+
+
+ 📫 How to reach me: ...
+barrettdomi@gmail.com
 
 <!--
 **DominikaBarrett/DominikaBarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,8 +32,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about ...![ikoniki](https://user-images.githubusercontent.com/48765197/123399094-20647100-d59c-11eb-8233-4936dfcba14e.jpg)
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
