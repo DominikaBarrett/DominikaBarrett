@@ -13,13 +13,13 @@
 
 
 
- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning:
 
 
 ![reackkt](https://user-images.githubusercontent.com/48765197/123399725-ddef6400-d59c-11eb-9b6d-80701628ff93.jpg)
 
 
- 📫 How to reach me: ...
+ 📫 How to reach me: 
 barrettdomi@gmail.com
 
 <!--
