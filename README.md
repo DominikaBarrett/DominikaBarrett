@@ -1,12 +1,12 @@
 
 #### Hi there! 👋
-![start]![domi](https://user-images.githubusercontent.com/48765197/123477937-ae6d4580-d5f6-11eb-911c-830acb467d72.jpg)
+![domi](https://user-images.githubusercontent.com/48765197/123477937-ae6d4580-d5f6-11eb-911c-830acb467d72.jpg)
 
 
  
 
 
-####😄 My Skills:
+😄 My Skills:
 
 ![ikoniki](https://user-images.githubusercontent.com/48765197/123399470-8c46d980-d59c-11eb-9587-a96fcce974b2.jpg)
 
@@ -14,14 +14,12 @@
 
 
 
-
-#### 🌱 I’m currently learning:
+ 🌱 I’m currently learning:
 
 
 ![reackkt](https://user-images.githubusercontent.com/48765197/123399725-ddef6400-d59c-11eb-9b6d-80701628ff93.jpg)
 
-
-#### 📫 How to reach me: 
+📫 How to reach me: 
 barrettdomi@gmail.com
 
 <!--
